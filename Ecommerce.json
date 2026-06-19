@@ -1,0 +1,102 @@
+[
+  {
+    "Order_ID": 1001,
+    "Customer": "Amit",
+    "Category": "Electronics",
+    "Product": "Smartphone",
+    "Price": 25000,
+    "Quantity": 1,
+    "Rating": 4.5,
+    "Order_Date": "2025-01-15"
+  },
+  {
+    "Order_ID": 1002,
+    "Customer": "Priya",
+    "Category": "Fashion",
+    "Product": "Shoes",
+    "Price": 2000,
+    "Quantity": 2,
+    "Rating": 4.2,
+    "Order_Date": "2025-01-16"
+  },
+  {
+    "Order_ID": 1003,
+    "Customer": "Rahul",
+    "Category": "Home",
+    "Product": "Mixer",
+    "Price": 3500,
+    "Quantity": 1,
+    "Rating": 4.0,
+    "Order_Date": "2025-01-17"
+  },
+  {
+    "Order_ID": 1004,
+    "Customer": "Sneha",
+    "Category": "Electronics",
+    "Product": "Laptop",
+    "Price": 65000,
+    "Quantity": 1,
+    "Rating": 4.8,
+    "Order_Date": "2025-01-18"
+  },
+  {
+    "Order_ID": 1005,
+    "Customer": "Vikas",
+    "Category": "Fashion",
+    "Product": "T-Shirt",
+    "Price": 800,
+    "Quantity": 3,
+    "Rating": 4.1,
+    "Order_Date": "2025-01-19"
+  },
+  {
+    "Order_ID": 1006,
+    "Customer": "Neha",
+    "Category": "Beauty",
+    "Product": "Face Wash",
+    "Price": 350,
+    "Quantity": 2,
+    "Rating": 4.3,
+    "Order_Date": "2025-01-20"
+  },
+  {
+    "Order_ID": 1007,
+    "Customer": "Rohan",
+    "Category": "Electronics",
+    "Product": "Headphones",
+    "Price": 1500,
+    "Quantity": 2,
+    "Rating": 4.4,
+    "Order_Date": "2025-01-21"
+  },
+  {
+    "Order_ID": 1008,
+    "Customer": "Pooja",
+    "Category": "Home",
+    "Product": "Cookware Set",
+    "Price": 4000,
+    "Quantity": 1,
+    "Rating": 4.6,
+    "Order_Date": "2025-01-22"
+  },
+  {
+    "Order_ID": 1009,
+    "Customer": "Arjun",
+    "Category": "Sports",
+    "Product": "Cricket Bat",
+    "Price": 2500,
+    "Quantity": 1,
+    "Rating": 4.7,
+    "Order_Date": "2025-01-23"
+  },
+  {
+    "Order_ID": 1010,
+    "Customer": "Kiran",
+    "Category": "Fashion",
+    "Product": "Jeans",
+    "Price": 1800,
+    "Quantity": 2,
+    "Rating": 4.0,
+    "Order_Date": "2025-01-24"
+  }
+]
