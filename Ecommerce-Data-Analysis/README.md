@@ -46,6 +46,10 @@ The dataset was processed using Pandas, NumPy and Matplotlib.
 - Customer purchase quantity ranged from 1–3.
 - Different categories showed different purchase patterns.
 
+## Project Output
+### Complete Analysis Dashboard
+![E- commerce Analysis](screenshots/ecommerce_analysis.png)
+
 ## Author
 
 Ishika Agarwal
